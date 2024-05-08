@@ -1,0 +1,16 @@
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\bin\Release\RSATask.Domain.dll.config
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\bin\Release\RSATask.Domain.dll
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\bin\Release\RSATask.Domain.pdb
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\bin\Release\RSATask.Domain.xml
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\bin\Release\EntityFramework.dll
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\bin\Release\EntityFramework.xml
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\obj\Release\RSATask.Domain.vbproj.AssemblyReference.cache
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\obj\Release\RSATask.Domain.Resources.resources
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\obj\Release\RSATask.Domain.vbproj.GenerateResource.cache
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\obj\Release\RSATask.Domain.vbproj.CoreCompileInputs.cache
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\obj\Release\RSATask.Domain.vbproj.CopyComplete
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\obj\Release\RSATask.Domain.dll
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\obj\Release\RSATask.Domain.xml
+C:\Users\onyemali uche\source\repos\RSATask\RSATask.Domain\obj\Release\RSATask.Domain.pdb

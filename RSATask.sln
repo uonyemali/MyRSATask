@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RSATask.Domain", "RSATask.Domain\RSATask.Domain.vbproj", "{9462CEA8-3B66-4AB4-8B8F-3706DEEE99FC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RSATask.Web", "RSATask.Web\RSATask.Web.vbproj", "{25CD4BA7-B839-424D-B1A8-656720BDA2B0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RSATask.Web.Tests", "RSATask.Web.Tests\RSATask.Web.Tests.vbproj", "{898E701C-2FA3-4611-A078-DC6883463739}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RSATask.Data", "RSATask.Data\RSATask.Data.vbproj", "{5EBD1217-6721-4E5E-A418-AAE891EA577D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C51E5FF-5753-4723-8760-1E5862025AD6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestData", "TestData", "{4705C8F7-9D53-4626-94BA-BD72E2E61DBC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\TestData.csv = ..\..\..\Documents\TestData.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9462CEA8-3B66-4AB4-8B8F-3706DEEE99FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9462CEA8-3B66-4AB4-8B8F-3706DEEE99FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9462CEA8-3B66-4AB4-8B8F-3706DEEE99FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9462CEA8-3B66-4AB4-8B8F-3706DEEE99FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CD4BA7-B839-424D-B1A8-656720BDA2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CD4BA7-B839-424D-B1A8-656720BDA2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CD4BA7-B839-424D-B1A8-656720BDA2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CD4BA7-B839-424D-B1A8-656720BDA2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898E701C-2FA3-4611-A078-DC6883463739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898E701C-2FA3-4611-A078-DC6883463739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898E701C-2FA3-4611-A078-DC6883463739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898E701C-2FA3-4611-A078-DC6883463739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBD1217-6721-4E5E-A418-AAE891EA577D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBD1217-6721-4E5E-A418-AAE891EA577D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBD1217-6721-4E5E-A418-AAE891EA577D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBD1217-6721-4E5E-A418-AAE891EA577D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD50D12A-F005-4C9E-83B3-DB29A205CB98}
+	EndGlobalSection
+EndGlobal

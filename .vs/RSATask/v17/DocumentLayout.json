@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4705C8F7-9D53-4626-94BA-BD72E2E61DBC}|NewFolder1{4705C8F7-9D53-4626-94BA-BD72E2E61DBC}|C:\\Users\\onyemali uche\\Documents\\TestData.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\services\\httpservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\services\\httpservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\services\\weatherforecastservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\services\\weatherforecastservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|c:\\users\\onyemali uche\\source\\repos\\rsatask\\rsatask.data\\migrations\\202405081153139_first db setup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|solutionrelative:rsatask.data\\migrations\\202405081153139_first db setup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C51E5FF-5753-4723-8760-1E5862025AD6}|Solution Items{2C51E5FF-5753-4723-8760-1E5862025AD6}|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2C51E5FF-5753-4723-8760-1E5862025AD6}|Solution Items{2C51E5FF-5753-4723-8760-1E5862025AD6}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|c:\\users\\onyemali uche\\source\\repos\\rsatask\\rsatask.data\\migrations\\configuration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|solutionrelative:rsatask.data\\migrations\\configuration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|c:\\users\\onyemali uche\\source\\repos\\rsatask\\rsatask.data\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|solutionrelative:rsatask.data\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|c:\\users\\onyemali uche\\source\\repos\\rsatask\\rsatask.data\\irepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|solutionrelative:rsatask.data\\irepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|c:\\users\\onyemali uche\\source\\repos\\rsatask\\rsatask.data\\repository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|solutionrelative:rsatask.data\\repository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|c:\\users\\onyemali uche\\source\\repos\\rsatask\\rsatask.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|solutionrelative:rsatask.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|c:\\users\\onyemali uche\\source\\repos\\rsatask\\rsatask.data\\weatherforecastercontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EBD1217-6721-4E5E-A418-AAE891EA577D}|RSATask.Data\\RSATask.Data.vbproj|solutionrelative:rsatask.data\\weatherforecastercontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\controllers\\forecastweathercontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\controllers\\forecastweathercontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E701C-2FA3-4611-A078-DC6883463739}|RSATask.Web.Tests\\RSATask.Web.Tests.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web.tests\\controllers\\forecastweathercontrollertest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{898E701C-2FA3-4611-A078-DC6883463739}|RSATask.Web.Tests\\RSATask.Web.Tests.vbproj|solutionrelative:rsatask.web.tests\\controllers\\forecastweathercontrollertest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E701C-2FA3-4611-A078-DC6883463739}|RSATask.Web.Tests\\RSATask.Web.Tests.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web.tests\\service\\csvservicetest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{898E701C-2FA3-4611-A078-DC6883463739}|RSATask.Web.Tests\\RSATask.Web.Tests.vbproj|solutionrelative:rsatask.web.tests\\service\\csvservicetest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E701C-2FA3-4611-A078-DC6883463739}|RSATask.Web.Tests\\RSATask.Web.Tests.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web.tests\\service\\httpservicetest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{898E701C-2FA3-4611-A078-DC6883463739}|RSATask.Web.Tests\\RSATask.Web.Tests.vbproj|solutionrelative:rsatask.web.tests\\service\\httpservicetest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E701C-2FA3-4611-A078-DC6883463739}|RSATask.Web.Tests\\RSATask.Web.Tests.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web.tests\\service\\weatherforecastservicetest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{898E701C-2FA3-4611-A078-DC6883463739}|RSATask.Web.Tests\\RSATask.Web.Tests.vbproj|solutionrelative:rsatask.web.tests\\service\\weatherforecastservicetest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\services\\csvservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\services\\csvservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\iservices\\ihttpservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\iservices\\ihttpservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\views\\forecastweather\\list.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\views\\forecastweather\\list.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\views\\forecastweather\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\views\\forecastweather\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\iservices\\icsvservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\iservices\\icsvservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\views\\shared\\_layout.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\views\\shared\\_layout.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|C:\\Users\\onyemali uche\\source\\repos\\RSATask\\rsatask.web\\iservices\\iweatherforecastservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{25CD4BA7-B839-424D-B1A8-656720BDA2B0}|RSATask.Web\\RSATask.Web.vbproj|solutionrelative:rsatask.web\\iservices\\iweatherforecastservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\Documents\\TestData.csv",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\TestData.csv",
+              "ToolTip": "C:\\Users\\onyemali uche\\Documents\\TestData.csv",
+              "RelativeToolTip": "..\\..\\..\\Documents\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-08T12:04:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecasterContext.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\WeatherForecasterContext.vb",
+              "RelativeDocumentMoniker": "RSATask.Data\\WeatherForecasterContext.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\WeatherForecasterContext.vb",
+              "RelativeToolTip": "RSATask.Data\\WeatherForecasterContext.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T11:39:04.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-06T15:29:04.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastService.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Services\\WeatherForecastService.vb",
+              "RelativeDocumentMoniker": "RSATask.Web\\Services\\WeatherForecastService.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Services\\WeatherForecastService.vb",
+              "RelativeToolTip": "RSATask.Web\\Services\\WeatherForecastService.vb",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T04:02:50.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HTTPService.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Services\\HTTPService.vb",
+              "RelativeDocumentMoniker": "RSATask.Web\\Services\\HTTPService.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Services\\HTTPService.vb",
+              "RelativeToolTip": "RSATask.Web\\Services\\HTTPService.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T03:44:47.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Web.config",
+              "RelativeDocumentMoniker": "RSATask.Web\\Web.config",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Web.config",
+              "RelativeToolTip": "RSATask.Web\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-06T15:58:09.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202405081153139_First DB Setup.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\Migrations\\202405081153139_First DB Setup.vb",
+              "RelativeDocumentMoniker": "RSATask.Data\\Migrations\\202405081153139_First DB Setup.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\Migrations\\202405081153139_First DB Setup.vb",
+              "RelativeToolTip": "RSATask.Data\\Migrations\\202405081153139_First DB Setup.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T11:53:19.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\App.config",
+              "RelativeDocumentMoniker": "RSATask.Data\\App.config",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\App.config",
+              "RelativeToolTip": "RSATask.Data\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T11:51:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\packages.config",
+              "RelativeDocumentMoniker": "RSATask.Data\\packages.config",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\packages.config",
+              "RelativeToolTip": "RSATask.Data\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T11:52:39.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\Migrations\\Configuration.vb",
+              "RelativeDocumentMoniker": "RSATask.Data\\Migrations\\Configuration.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\Migrations\\Configuration.vb",
+              "RelativeToolTip": "RSATask.Data\\Migrations\\Configuration.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T11:52:59.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\IRepository.vb",
+              "RelativeDocumentMoniker": "RSATask.Data\\IRepository.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\IRepository.vb",
+              "RelativeToolTip": "RSATask.Data\\IRepository.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T11:37:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\Repository.vb",
+              "RelativeDocumentMoniker": "RSATask.Data\\Repository.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Data\\Repository.vb",
+              "RelativeToolTip": "RSATask.Data\\Repository.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T11:34:18.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForecastWeatherController.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Controllers\\ForecastWeatherController.vb",
+              "RelativeDocumentMoniker": "RSATask.Web\\Controllers\\ForecastWeatherController.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Controllers\\ForecastWeatherController.vb",
+              "RelativeToolTip": "RSATask.Web\\Controllers\\ForecastWeatherController.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T03:44:47.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForecastWeatherControllerTest.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web.Tests\\Controllers\\ForecastWeatherControllerTest.vb",
+              "RelativeDocumentMoniker": "RSATask.Web.Tests\\Controllers\\ForecastWeatherControllerTest.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web.Tests\\Controllers\\ForecastWeatherControllerTest.vb",
+              "RelativeToolTip": "RSATask.Web.Tests\\Controllers\\ForecastWeatherControllerTest.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T15:16:31.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastServiceTest.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web.Tests\\Service\\WeatherForecastServiceTest.vb",
+              "RelativeDocumentMoniker": "RSATask.Web.Tests\\Service\\WeatherForecastServiceTest.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web.Tests\\Service\\WeatherForecastServiceTest.vb",
+              "RelativeToolTip": "RSATask.Web.Tests\\Service\\WeatherForecastServiceTest.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T14:45:43.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CSVServiceTest.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web.Tests\\Service\\CSVServiceTest.vb",
+              "RelativeDocumentMoniker": "RSATask.Web.Tests\\Service\\CSVServiceTest.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web.Tests\\Service\\CSVServiceTest.vb",
+              "RelativeToolTip": "RSATask.Web.Tests\\Service\\CSVServiceTest.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwDgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T14:35:48.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CSVService.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Services\\CSVService.vb",
+              "RelativeDocumentMoniker": "RSATask.Web\\Services\\CSVService.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Services\\CSVService.vb",
+              "RelativeToolTip": "RSATask.Web\\Services\\CSVService.vb",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T14:32:43.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HTTPServiceTest.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web.Tests\\Service\\HTTPServiceTest.vb",
+              "RelativeDocumentMoniker": "RSATask.Web.Tests\\Service\\HTTPServiceTest.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web.Tests\\Service\\HTTPServiceTest.vb",
+              "RelativeToolTip": "RSATask.Web.Tests\\Service\\HTTPServiceTest.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T14:12:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.vbhtml",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Views\\ForecastWeather\\Index.vbhtml",
+              "RelativeDocumentMoniker": "RSATask.Web\\Views\\ForecastWeather\\Index.vbhtml",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Views\\ForecastWeather\\Index.vbhtml",
+              "RelativeToolTip": "RSATask.Web\\Views\\ForecastWeather\\Index.vbhtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-05-06T13:35:17.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IHTTPService.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\IServices\\IHTTPService.vb",
+              "RelativeDocumentMoniker": "RSATask.Web\\IServices\\IHTTPService.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\IServices\\IHTTPService.vb",
+              "RelativeToolTip": "RSATask.Web\\IServices\\IHTTPService.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T11:49:36.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IWeatherForecastService.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\IServices\\IWeatherForecastService.vb",
+              "RelativeDocumentMoniker": "RSATask.Web\\IServices\\IWeatherForecastService.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\IServices\\IWeatherForecastService.vb",
+              "RelativeToolTip": "RSATask.Web\\IServices\\IWeatherForecastService.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T06:54:29.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICSVService.vb",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\IServices\\ICSVService.vb",
+              "RelativeDocumentMoniker": "RSATask.Web\\IServices\\ICSVService.vb",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\IServices\\ICSVService.vb",
+              "RelativeToolTip": "RSATask.Web\\IServices\\ICSVService.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-06T06:21:12.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.vbhtml",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Views\\Shared\\_Layout.vbhtml",
+              "RelativeDocumentMoniker": "RSATask.Web\\Views\\Shared\\_Layout.vbhtml",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Views\\Shared\\_Layout.vbhtml",
+              "RelativeToolTip": "RSATask.Web\\Views\\Shared\\_Layout.vbhtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-05-06T06:10:44.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "List.vbhtml",
+              "DocumentMoniker": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Views\\ForecastWeather\\List.vbhtml",
+              "RelativeDocumentMoniker": "RSATask.Web\\Views\\ForecastWeather\\List.vbhtml",
+              "ToolTip": "C:\\Users\\onyemali uche\\source\\repos\\RSATask\\RSATask.Web\\Views\\ForecastWeather\\List.vbhtml",
+              "RelativeToolTip": "RSATask.Web\\Views\\ForecastWeather\\List.vbhtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-05-06T03:42:47.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
